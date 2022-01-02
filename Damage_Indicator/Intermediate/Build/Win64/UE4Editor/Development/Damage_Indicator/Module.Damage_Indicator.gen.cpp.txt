@@ -1,0 +1,10 @@
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Development\Damage_Indicator\Definitions.Damage_Indicator.h
+C:/Users/Rodri/Downloads/Damage_Indicator/HostProject/Plugins/Damage_Indicator/Intermediate/Build/Win64/UE4Editor/Inc/Damage_Indicator/Damage_Indicator.init.gen.cpp
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/Rodri/Downloads/Damage_Indicator/HostProject/Plugins/Damage_Indicator/Intermediate/Build/Win64/UE4Editor/Inc/Damage_Indicator/DamageDisplay_Component.gen.cpp
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Source\Damage_Indicator/Public/DamageDisplay_Component.h
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Inc\Damage_Indicator\DamageDisplay_Component.generated.h
+C:/Users/Rodri/Downloads/Damage_Indicator/HostProject/Plugins/Damage_Indicator/Intermediate/Build/Win64/UE4Editor/Inc/Damage_Indicator/DamageTextActor.gen.cpp
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Source\Damage_Indicator/Public/DamageTextActor.h
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Inc\Damage_Indicator\DamageTextActor.generated.h

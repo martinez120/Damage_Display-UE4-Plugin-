@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Damage_Indicator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Development\Damage_Indicator\Module.Damage_Indicator.cpp.obj"
+"C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Development\Damage_Indicator\Module.Damage_Indicator.gen.cpp.obj"
+"C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Development\Damage_Indicator\Default.rc2.res"
+/OUT:"C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Development\Damage_Indicator\UE4Editor-Damage_Indicator.lib"
+/INCLUDE:IMPLEMENT_MODULE_Damage_Indicator

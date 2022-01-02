@@ -1,0 +1,24 @@
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Development\Damage_Indicator\Definitions.Damage_Indicator.h
+C:/Users/Rodri/Downloads/Damage_Indicator/HostProject/Plugins/Damage_Indicator/Source/Damage_Indicator/Private/Damage_Indicator.cpp
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Source\Damage_Indicator\Public\Damage_Indicator.h
+C:/Users/Rodri/Downloads/Damage_Indicator/HostProject/Plugins/Damage_Indicator/Source/Damage_Indicator/Private/DamageDisplay_Component.cpp
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Source\Damage_Indicator\Public\DamageDisplay_Component.h
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Inc\Damage_Indicator\DamageDisplay_Component.generated.h
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Source\Damage_Indicator\Public\DamageTextActor.h
+C:\Users\Rodri\Downloads\Damage_Indicator\HostProject\Plugins\Damage_Indicator\Intermediate\Build\Win64\UE4Editor\Inc\Damage_Indicator\DamageTextActor.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetLayoutLibrary.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetLayoutLibrary.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime/Engine/Classes/Engine/UserInterfaceSettings.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserInterfaceSettings.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:/Users/Rodri/Downloads/Damage_Indicator/HostProject/Plugins/Damage_Indicator/Source/Damage_Indicator/Private/DamageTextActor.cpp

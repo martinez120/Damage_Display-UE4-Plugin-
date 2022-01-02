@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Damage_Indicator.cpp.obj": [
+			"Damage_Indicator.cpp.obj",
+			"DamageDisplay_Component.cpp.obj",
+			"DamageTextActor.cpp.obj"
+		],
+		"Module.Damage_Indicator.gen.cpp.obj": [
+			"Damage_Indicator.init.gen.cpp.obj",
+			"DamageDisplay_Component.gen.cpp.obj",
+			"DamageTextActor.gen.cpp.obj"
+		]
+	}
+}
